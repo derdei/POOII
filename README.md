@@ -1,7 +1,7 @@
 # POOII
 du 25-mar au 10-jul --- 420-EAB-LI --- 07331 --- Programmation orientée objet II 
 
-# Examen I
+# Examen I (le jeudi 7 mai 2015)
 1. Vecteur, Matrice
 
   1.1 Vecteur d'objet
